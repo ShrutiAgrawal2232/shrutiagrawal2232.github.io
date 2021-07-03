@@ -1,6 +1,6 @@
 # React Portfolio
 
-Check it live here - []()
+Check it live here - [shrutiagrawal2232.github.io](shrutiagrawal2232.github.io)
 
 ## Libraries used
 
