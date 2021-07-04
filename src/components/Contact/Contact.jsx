@@ -28,10 +28,11 @@ const Contact = () => {
                 heading=''
                 details='Visit : Mathura , Uttar Pradesh'
             />
-                            
+
             {/* Form section */}
             <div className='contact-form-container'>
-                <form className='contact-form'>
+                <form className='contact-form' action="https://formspree.io/f/mjvjolba"
+                    method="POST">
                     <input
                         type='text'
                         placeholder='Your Name'
