@@ -19,7 +19,7 @@ export const projectsData = [
         projectName: 'Aalekh - a blogging website',
         projectDescription:
             'As a developer/designer, you should definitely have your own portfolio website. There are endless benefits. But, a lot of people feel that it would be tough to make one. So here I bring you a tutorial to make your own website.',
-        imageUrl: '',
+        imageUrl: 'Banner.png',
         videoUrl: '',
         projectUrl: '',
     },
